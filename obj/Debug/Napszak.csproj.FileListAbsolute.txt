@@ -1,0 +1,2 @@
+C:\Users\fodorr\Gitwork\Napszak\obj\Debug\Napszak.csproj.AssemblyReference.cache
+C:\Users\fodorr\Gitwork\Napszak\obj\Debug\Napszak.csproj.CoreCompileInputs.cache
